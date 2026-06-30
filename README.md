@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Vishal 👋
 
-<!--
-**VishalParwani76/VishalParwani76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at FAST-NUCES Karachi | Backend AI Developer Intern @ FlyRank
 
-Here are some ideas to get you started:
+## What I'm working on
+Building full-stack apps with JavaScript, Python, and AI integration.
+Currently learning FastAPI + SQL to power my projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+JavaScript | Python | FastAPI | SQL | HTML/CSS
+
+## Featured Project
+🔗 [TaskSphere](link-to-repo) — Full-stack task manager
