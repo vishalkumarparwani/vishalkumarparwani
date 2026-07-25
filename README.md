@@ -1,41 +1,68 @@
 # Hi, I'm Vishal 👋
 
-CS student at FAST-NUCES Karachi | Backend AI Developer Intern @ FlyRank
+Computer Science student at FAST-NUCES Karachi | AI Engineering Intern @ FlyRank
 
-I like building real, working projects rather than isolated exercises — currently focused on full-stack development with a backend-first mindset.
+I'm interested in building AI-powered software with a strong backend foundation. My current focus is on full-stack development, backend engineering, and modern AI application development.
 
 ## 🚀 What I'm working on
-Building full-stack applications with JavaScript and Python, currently learning FastAPI + SQL to power real projects from the ground up.
+
+* Building **FlowOS**, an AI-powered productivity platform
+* Learning React, Tailwind CSS, FastAPI, PostgreSQL, and Docker
+* Solving LeetCode to strengthen data structures and algorithms
+* Exploring LLMs, AI agents, and production AI systems
 
 ## 🛠️ Tech Stack
 
 **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+`Python` `JavaScript` `SQL` `C++` `C`
+
+**Frontend**
+`React` `Tailwind CSS` `HTML5` `CSS3` `Vite`
 
 **Backend**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
+`FastAPI` `REST APIs` `Pydantic`
 
 **Database**
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+`PostgreSQL` `SQLite`
 
 **Concepts**
-`OOP` `REST APIs`
+`Object-Oriented Programming` `Data Structures & Algorithms` `Git` `GitHub`
 
 **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+`Docker` `VS Code` `Postman`
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
-**[TaskSphere](https://github.com/vishalkumarparwani/TaskSphere)** — A full-stack task management app
-- Frontend built from scratch in vanilla JavaScript (DOM manipulation, localStorage, view switching)
-- Backend powered by Python FastAPI with SQL database integration
-- Features: task CRUD, dashboard analytics, persistent storage
+### FlowOS *(In Progress)*
+
+An AI-powered productivity platform designed to combine task management with intelligent assistance.
+
+**Planned features**
+
+* Workspaces and projects
+* AI assistant
+* Task management
+* Authentication
+* PostgreSQL database
+* Modern React frontend
+
+### [TaskSphere](https://github.com/vishalkumarparwani/TaskSphere)
+
+A full-stack task management application.
+
+* Frontend built with vanilla JavaScript
+* Backend powered by FastAPI
+* SQLite database integration
+* CRUD operations and dashboard analytics
+* RESTful API architecture
+
+## 📚 Currently Learning
+
+* React & Tailwind CSS
+* FastAPI & PostgreSQL
+* Docker
+* AI Engineering
+* Large Language Model applications
 
 ---
 
