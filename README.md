@@ -1,77 +1,93 @@
-# Hi, I'm Vishal 👋
+# Vishal Parwani
 
-**Backend AI Engineering Intern @ FlyRank AI** | **CS Student @ FAST-NUCES Karachi**
+Backend AI Engineer Intern at FlyRank AI · Computer Science Student at FAST-NUCES, Karachi
 
-I specialize in building high-performance backend systems, RESTful APIs, and production-grade Generative AI applications. My work focuses on bridging robust software engineering practices with modern LLM capabilities.
-
----
-
-### 💡 What I Do
-
-* ⚡ **Backend & AI Intern** at **FlyRank AI**, architecting APIs with FastAPI, Pydantic, SQLAlchemy, and LLM pipelines.
-* 🎓 Pursuing a B.S. in Computer Science at **FAST-NUCES Karachi**.
-* 🛠️ Building **FlowOS / SpecFlow AI**, an intelligent productivity platform.
-* 🎯 Focused on scalable microservices, backend security, databases, and applied AI agents.
+I build backend systems and APIs that integrate large language models into production-style applications — from authentication and data modeling to LLM-powered features layered on top of conventional REST architecture.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## Focus Areas
 
-#### **Backend & API Development**
+- Backend API development with FastAPI, Pydantic, and SQLAlchemy
+- LLM integration and applied generative AI (Groq, OpenAI-compatible APIs)
+- Relational database design with PostgreSQL and Supabase
+- Authentication and access control (JWT, role-based access)
+- Data collection and processing through web scraping
+- Full-stack delivery with React and Tailwind CSS
+
+---
+
+## Tech Stack
+
+**Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Backend & APIs**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71100?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![JWT Auth](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005596?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
-#### **AI & Machine Learning**
+**AI & Machine Learning**
 ![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLM_Applications-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge&logo=bot&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=lightning&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-#### **Databases & Cloud**
+**Databases & Cloud**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-#### **Frontend Development**
+**Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### **DevOps, Tools & Languages**
+**Tools & Infrastructure**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
-#### **Computer Science Foundations**
-`Data Structures & Algorithms` • `Object-Oriented Programming (OOP)` • `Computer Organization & Assembly`
-
----
-
-### 📌 Featured Projects
-
-#### 🌟 SpecFlow AI *(In Progress)*
-> An AI-powered productivity platform integrating automated task management with an intelligent context-aware assistant.
-
-* **Backend:** FastAPI, PostgreSQL, Supabase, JWT Authentication, Pydantic, SQLAlchemy
-* **Frontend:** React, Tailwind CSS
-* **Key Features:** Workspace context switching, secure role-based access, automated assistant triggers.
-
-#### 🚀 [Orbit AI (TaskSphere)](https://github.com/vishalkumarparwani/TaskSphere)
-> Full-stack task management system integrated with Groq AI for intelligent task analytics and conversational help.
-
-* **Tech Stack:** FastAPI, SQLite, RESTful Architecture, Groq AI, JavaScript
-* **Key Features:** CRUD operations dashboard, natural language chat query processing, API analytics.
+**Computer Science Foundations**
+Data Structures & Algorithms · Object-Oriented Programming · Computer Organization & Assembly Language · Problem Solving
 
 ---
 
-### 🌐 Connect with Me
+## Featured Projects
 
-📍 **Location:** Karachi, Sindh, Pakistan  
-💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)  
-📫 **Email:** your.email@example.com
+### Sentinel — AI-Powered Issue Management Platform
+A service-to-issue tracking platform for engineering teams, combining structured issue management with an AI triage engine that extracts actionable issues from raw bug reports, logs, and customer messages.
+
+- **Backend:** FastAPI, PostgreSQL, SQLAlchemy, Pydantic, JWT authentication
+- **AI:** Groq API (Llama 3.3 70B) for automated issue extraction and structuring
+- **Frontend:** React, Tailwind CSS
+- **Infrastructure:** Dockerized multi-service architecture (frontend, backend, database)
+
+### Orbit AI
+A full-stack task management system integrated with the Groq API for intelligent task analytics and conversational task queries.
+
+- **Backend:** FastAPI, SQLite, REST architecture
+- **AI:** Groq API for natural language query processing
+- **Key features:** CRUD-based task dashboard, conversational analytics, API-driven insights
+
+---
+
+## Currently Working On
+
+- FlyRank AI internship: backend assignments spanning CRUD API design, Dockerized PostgreSQL deployments, JWT authentication, and a production-style web scraper (data normalization, schema validation, resilient error handling)
+- Applying to Master's programs in Applied AI Engineering in Germany
+
+---
+
+## Connect
+
+**Location:** Karachi, Pakistan
+**LinkedIn:** [linkedin.com/in/buildwithvishalparwani](https://www.linkedin.com/in/buildwithvishalparwani/)
