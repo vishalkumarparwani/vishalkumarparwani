@@ -1,4 +1,4 @@
-# Vishal Parwani
+# Vishal Kumar
 
 Backend AI Engineer Intern at FlyRank AI · Computer Science Student at FAST-NUCES, Karachi
 
@@ -83,8 +83,7 @@ A full-stack task management system integrated with the Groq API for intelligent
 ## Currently Working On
 
 - FlyRank AI internship: backend assignments spanning CRUD API design, Dockerized PostgreSQL deployments, JWT authentication, and a production-style web scraper (data normalization, schema validation, resilient error handling)
-- Applying to Master's programs in Applied AI Engineering in Germany
-
+- 
 ---
 
 ## Connect
