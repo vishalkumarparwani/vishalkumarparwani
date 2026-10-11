@@ -2,13 +2,13 @@
 
 Backend AI Engineer Intern at FlyRank AI · Computer Science Student at FAST-NUCES, Karachi
 
-I build backend systems and APIs that integrate large language models into production-style applications — from authentication and data modeling to LLM-powered features layered on top of conventional REST architecture.
+I build backend systems and APIs that integrate large language models into production-style applications, from authentication and data modeling to LLM-powered features layered on top of conventional REST architecture.
 
 ---
 
 ## Focus Areas
 
-- Backend API development with FastAPI, Pydantic, and SQLAlchemy
+- Backend API development with Django, FastAPI, Pydantic, and SQLAlchemy
 - LLM integration and applied generative AI (Groq, OpenAI-compatible APIs)
 - Relational database design with PostgreSQL and Supabase
 - Authentication and access control (JWT, role-based access)
@@ -63,10 +63,10 @@ Data Structures & Algorithms · Object-Oriented Programming · Computer Organiza
 
 ## Featured Projects
 
-### Sentinel — AI-Powered Issue Management Platform
+### Sentinel - AI-Powered Issue Management Platform
 A service-to-issue tracking platform for engineering teams, combining structured issue management with an AI triage engine that extracts actionable issues from raw bug reports, logs, and customer messages.
 
-- **Backend:** FastAPI, PostgreSQL, SQLAlchemy, Pydantic, JWT authentication
+- **Backend:** Django, FastAPI, PostgreSQL, SQLAlchemy, Pydantic, JWT authentication, Supabase
 - **AI:** Groq API (Llama 3.3 70B) for automated issue extraction and structuring
 - **Frontend:** React, Tailwind CSS
 - **Infrastructure:** Dockerized multi-service architecture (frontend, backend, database)
@@ -76,17 +76,18 @@ A full-stack task management system integrated with the Groq API for intelligent
 
 - **Backend:** FastAPI, SQLite, REST architecture
 - **AI:** Groq API for natural language query processing
-- **Key features:** CRUD-based task dashboard, conversational analytics, API-driven insights
+- **Key features:** Dashboard, conversational analytics, API-driven insights
 
 ---
 
 ## Currently Working On
 
-- FlyRank AI internship: backend assignments spanning CRUD API design, Dockerized PostgreSQL deployments, JWT authentication, and a production-style web scraper (data normalization, schema validation, resilient error handling)
+- FlyRank AI internship: backend assignments spanning API design, Dockerized PostgreSQL deployments, JWT authentication, and a production-style web scraper (data normalization, schema validation, resilient error handling)
 
 ---
 
 ## Connect
 
-**Location:** Karachi, Pakistan
+**Location:** Karachi, Sindh, Pakistan
+
 **LinkedIn:** [linkedin.com/in/buildwithvishalparwani](https://www.linkedin.com/in/buildwithvishalparwani/)
