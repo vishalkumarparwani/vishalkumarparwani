@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td valign="top">
+<td valign="top" width="60%">
 
 ### Vishal Kumar
 
@@ -13,9 +13,9 @@ I build backend systems and APIs that bring large language models into real appl
 [LinkedIn](https://www.linkedin.com/in/buildwithvishalparwani/) · Karachi, Pakistan
 
 </td>
-<td valign="top">
+<td valign="middle" align="center" width="40%">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vishalkumarparwani&theme=onedark&no-frame=true&no-bg=true&row=1&column=3" alt="trophies" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,fastapi,django,react,postgres&perline=4&theme=dark" alt="tech icons" />
 
 </td>
 </tr>
@@ -111,3 +111,9 @@ A service to issue tracking platform for engineering teams, with an AI triage en
 </p>
 
 <img src="https://streak-stats.demolab.com?user=vishalkumarparwani&theme=github-dark&hide_border=true" />
+
+---
+
+## Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=vishalkumarparwani&theme=onedark&no-frame=true&no-bg=true&row=1&column=4" alt="trophies" />
