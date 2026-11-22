@@ -113,7 +113,3 @@ A service to issue tracking platform for engineering teams, with an AI triage en
 <img src="https://streak-stats.demolab.com?user=vishalkumarparwani&theme=github-dark&hide_border=true" />
 
 ---
-
-## Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=vishalkumarparwani&theme=onedark&no-frame=true&no-bg=true&row=1&column=4" alt="trophies" />
